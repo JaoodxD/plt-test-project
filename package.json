@@ -5,7 +5,7 @@
     "migrate": "platformatic db migrations apply"
   },
   "devDependencies": {
-    "fastify": "^4.23.2"
+    "fastify": "^4.28.1"
   },
   "dependencies": {
     "platformatic": "^1.13.1",
