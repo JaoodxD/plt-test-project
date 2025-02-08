@@ -8,8 +8,8 @@
     "fastify": "^4.28.1"
   },
   "dependencies": {
-    "platformatic": "^1.13.1",
-    "@platformatic/db": "^1.13.1"
+    "platformatic": "^2.23.0",
+    "@platformatic/db": "^2.23.0"
   },
   "engines": {
     "node": "^18.8.0 || >=20.6.0"
